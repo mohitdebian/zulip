@@ -30,6 +30,10 @@ Come find us on the [development community chat](https://zulip.com/development-c
 [rust-case-study]: https://zulip.com/case-studies/rust/
 [features]: https://zulip.com/features/
 
+## 🚀 New to Contributing? [START HERE!](START_HERE.md)
+
+This guide will help you navigate the repository and start contributing effectively.
+
 ## Getting started
 
 - **Contributing code**. Check out our [guide for new
