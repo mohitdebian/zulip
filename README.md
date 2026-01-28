@@ -38,6 +38,11 @@ Come find us on the [development community chat](https://zulip.com/development-c
   readable, thoughtfully tested, and easy to modify. Beyond that, we
   have written an extraordinary 185K words of documentation for Zulip
   contributors.
+  
+  **New contributor?** Start with these quick guides:
+  - [CONTRIBUTOR_QUICK_START.md](CONTRIBUTOR_QUICK_START.md) - Essential overview and setup
+  - [FOCUS_AREAS.md](FOCUS_AREAS.md) - What to focus on based on your interests
+  - [DIRECTORY_MAP.md](DIRECTORY_MAP.md) - Visual guide to navigate the codebase
 
 - **Contributing non-code**. [Report an
   issue](https://zulip.readthedocs.io/en/latest/contributing/reporting-bugs.html),
